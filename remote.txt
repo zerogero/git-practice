@@ -1,0 +1,4 @@
+git remote -v
+output:
+origin  https://github.com/zerogero/git-practice.git (fetch)
+origin  https://github.com/zerogero/git-practice.git (push) 
